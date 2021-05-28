@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uditg45
 - 👀 I’m interested in Machine Leaning And Artificial intelligence 
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on OpenCV projects
 - 📫 How to reach me - Udgarudmit45@gmail.com
 
